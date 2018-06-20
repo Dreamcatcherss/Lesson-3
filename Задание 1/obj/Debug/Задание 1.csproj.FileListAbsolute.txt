@@ -1,0 +1,7 @@
+D:\ReadyLessons\Дополнительное задание\Задание 1\obj\Debug\Задание 1.csprojAssemblyReference.cache
+D:\ReadyLessons\Дополнительное задание\Задание 1\obj\Debug\Задание 1.csproj.CoreCompileInputs.cache
+D:\ReadyLessons\Дополнительное задание\Задание 1\bin\Debug\Задание 1.exe.config
+D:\ReadyLessons\Дополнительное задание\Задание 1\bin\Debug\Задание 1.exe
+D:\ReadyLessons\Дополнительное задание\Задание 1\bin\Debug\Задание 1.pdb
+D:\ReadyLessons\Дополнительное задание\Задание 1\obj\Debug\Задание 1.exe
+D:\ReadyLessons\Дополнительное задание\Задание 1\obj\Debug\Задание 1.pdb
