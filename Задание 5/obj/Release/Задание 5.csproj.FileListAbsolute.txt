@@ -1,0 +1,6 @@
+D:\ReadyLessons\Lesson 3\Задание 5\bin\Release\Задание 5.exe.config
+D:\ReadyLessons\Lesson 3\Задание 5\bin\Release\Задание 5.exe
+D:\ReadyLessons\Lesson 3\Задание 5\bin\Release\Задание 5.pdb
+D:\ReadyLessons\Lesson 3\Задание 5\obj\Release\Задание 5.csproj.CoreCompileInputs.cache
+D:\ReadyLessons\Lesson 3\Задание 5\obj\Release\Задание 5.exe
+D:\ReadyLessons\Lesson 3\Задание 5\obj\Release\Задание 5.pdb
